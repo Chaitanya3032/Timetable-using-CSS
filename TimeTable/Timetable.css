@@ -1,0 +1,135 @@
+:root{
+    --main-bg-color: purple;
+    --font1:'Baloo Bhaina 2', cursive;
+    --font2:'Roboto', sans-serif;
+}
+
+.font1{
+    font-family: var(--font1);
+}
+.font2 {
+    font-family: var(--font2);
+}  
+
+ .center{
+    text-align: center;
+ } 
+
+.head{
+    color: black;  
+}
+
+table {
+    margin-top: 2%;
+    width: max-content;
+    border: 1px solid black;
+    height: 300px;
+    margin-left: 23%;
+    /* border-collapse :collapse; */
+}
+
+td  {
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+thead #day{
+    font-weight: 600;
+}
+
+#day {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    /* padding-top: 3px;
+    padding-bottom: 3px; */
+    /* background-color: #ffffff; */
+}
+
+#Days {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    /* background-color: #ffffff; */
+}
+
+.big {
+    flex-basis: 110px;
+}
+
+.height{
+    height: 1px;
+}
+
+.m_auto{
+    margin-top: 90px;
+}
+
+div table{
+
+}
+
+div table #Days {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+    /* background-color: #ffffff; */
+}
+
+div table #day {
+    color: black;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    /* background-color: #ffffff; */
+}
+
+div p{
+    margin-top: 50px;
+    font-weight: 600;
+    
+}
+
+div .para1{
+    margin-top: 1px;
+    margin-left: 40px;
+    color :red;
+}
+
+.m_auto2{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
